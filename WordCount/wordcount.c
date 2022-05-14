@@ -62,11 +62,7 @@ void wcexe(char *filename)
 		fclose(fp);
 
 		printf("单词数：%d\n",wordCount);
-		
-		
 		printf("字符数：%d\n",charCount);
-		
-		
 		
 	}
 	
